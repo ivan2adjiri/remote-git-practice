@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <link rel="stylesheet" href="style.css">
+   <title>Harry Potter</title>
+</head>
+
+<body>
+
+<h1>Harry Potter Series</h1>
+
+<h4>Author - J.K. Rowling</h4>
+
+<dav>
+    <a href="#">Home</a>
+    <a href="https:google.com">About</a>
+    <a href="#">Blog</a>
+    <a href="#">Contact Us</a>
+
+</dav>
+<br><br>
+
+<img src="mandy/harry.potter.jpg" height="600px" width="600px" alt="Harry Potter">
+
+<h2>Short Description of Harry Potter Series</h2>
+
+<p>Harry Potter is a series of seven Fantasy novels written by Bristish author J.K. Rowling.The novels chronicle the life of a young wizard,Harry Potter and his friends Hermoine
+   Granger and Ron Weasley(all of whom are students at Hogwarts School of Witchcraft and Wizardry).The main story encapsulates Harry's struggle against Lord Voldemort,a
+   dark wizard who intends to become immortal,ovethrow the wizard governing body and subject Muggles(non-magical people) to his control.
+
+</p>
+
+
+<h4>Order of Books</h4>
+
+<ol>
+   <li>The Philosopher's Stone</li>
+   <li>The Chamber of Secrets</li>
+   <li>The Prisoner of Azkaban</li>
+   <li>The Goblet of Fire</li>
+   <li>The Order of the Phoenix</li>
+   <li>The Half-Blood Prince</li>
+   <li>The Deathly Hallows</li>
+
+
+</ol>
+
+<h4>Famous Characters in the Book</h4>
+
+<ul>
+
+   <li>Harry Potter</li>
+   <li>Ron Weasley</li>
+   <li>Hermoine Granger</li>
+   <li>Lord Voldemort</li>
+   <li>Albus Dumbledore</li>
+
+</ul>
+
+
+<h4>Relationship Detail:</h4>
+
+<table>
+   <tr>
+     <th>SNo.</th>
+     <th>Character</th>
+     <th>Relationship with Hp</th>
+
+   </tr>
+
+ </table>  
+
+<table>
+    <tr>
+     <td>1</td>
+     <td>Ron Weasley</td>
+     <td>Friend</td>
+
+    </tr>
+
+</table>
+
+<table>
+   <tr>
+     <td>2</td>
+     <td>Hermoine Granger</td>
+     <td>Friend</td>
+
+</tr>
+
+</table>
+
+<table>
+<tr>
+   <td>3</td>
+   <td>Albus Dumbledore</td>
+   <td>Teacher</td>
+   
+</tr>
+
+</table>
+
+
+<h4>To give your suggestions please leave your details in the form,we will contact you</h4>
+
+<form>
+    
+   <div class="firstname">
+      <label>Name:</label>
+      <input type="text" name=""><br><br>
+
+   <div class="surname">
+      <label>Surname:</label>
+      <input type="text" name=""><br><br>
+
+   
+   <div class="E-mail">
+      <label>E-mail:</label>
+      <input type="text" name=""><br><br>
+
+
+      <button>Signup</button>
+
+   </div>
+ 
+
+
+<form>
+<br>   
+
+
+
+<h4>Reach Us at</h4>
+
+<footer>
+    <p>e-mail</p>
+    <p>phone</p>
+    <p>facebook page</p>
+    <p>copyright@2020</p>
+
+
+</footer>
+   
+</body>
+</html>
+  
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
